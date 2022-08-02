@@ -1,4 +1,6 @@
 // This is the entry point of the program.
+//
+// See more https://doc.rust-lang.org/rust-by-example/index.html
 fn main() {
     println!("Hello, World!");
     // Possible to bind value with "{}".
